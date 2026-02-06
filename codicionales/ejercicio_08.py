@@ -7,11 +7,11 @@
 nota = int(input('Introduce la nota: '))
 edad = int(input('Introduce la edad: '))
 sexo = input('Introduce el sexo (F/M): ')
-if nota>=5, edad>=18:
-	if sexo=='f', sexo=='F':
+if nota>=5 and edad>=18:
+	if sexo == 'f' or sexo == 'F':
 		print('Aceptada')
 	else:
-		if sexo=='m', sexo=='M':
+		if sexo=='m' or sexo=='M':
 			print('Posible')
 		else:
 			print('No aceptada')
