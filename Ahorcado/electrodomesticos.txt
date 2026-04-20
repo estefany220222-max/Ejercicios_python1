@@ -1,0 +1,16 @@
+refrigerador
+estufa
+horno
+microondas
+licuadora
+batidora
+tostadora
+cafetera
+lavavajillas
+freidora
+extractor
+lavadora
+secadora
+aspiradora
+plancha
+vaporizador

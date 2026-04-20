@@ -1,0 +1,16 @@
+perro
+gato
+pez
+leon
+cocodrilo
+mono
+tigre
+mariposa
+hiena
+elefante
+escorpion
+burro
+conejo
+koala
+aguila
+tiburon
